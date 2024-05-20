@@ -37,7 +37,7 @@ class Welcome_screen extends StatelessWidget {
                 height: 20,
               ),
               Text(
-                "Enjoy the trip\nwith me",
+                "Enjoy the trip\nwith meee",
                 style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
